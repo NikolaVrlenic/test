@@ -1,0 +1,20 @@
+ body {
+ 	background: 
+ }
+
+ul.menu li{
+	display: inline;
+	padding:10px ;
+	border: 2px solid blue ;
+	background-color: gray
+}
+.menu a:hover {
+	background-color: blue;
+}
+.menu a {
+	text-decoration: none;
+}
+#online {
+	border: 4px solid blue ;
+
+}
